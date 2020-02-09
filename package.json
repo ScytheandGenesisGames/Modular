@@ -1,0 +1,55 @@
+{
+  "name": "Apple_Watch_Modular",
+  "author": "Dr Alexander the bat",
+  "version": "1.0.0",
+  "keywords": [
+    "Apple Watch, Modular"
+  ],
+  "private": true,
+  "dependencies": {
+    "pebble-clay": "^1.0.4",
+    "pebble-events": "^1.2.0",
+    "pebble-generic-weather": "^1.1.6",
+    "pebble-simple-health": "^1.0.6"
+  },
+  "pebble": {
+    "displayName": "Apple Watch Modular",
+    "uuid": "808813b8-4316-439d-a70b-ff76c0244ccf",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "basalt"
+    ],
+    "watchapp": {
+      "watchface": true
+    },
+    "messageKeys": [
+      "dummy"
+    ],
+    "resources": {
+      "media": [
+        {
+            "file": "fonts/WatchOSThin_30.otf",
+            "name": "WatchOSThin_30",
+            "type": "font"
+        },
+        { "file": "fonts/WatchOSThin_22.otf",
+            "name": "WatchOSThin_22",
+            "type": "font"
+            },
+            { "file": "fonts/WatchOSThin_24.otf",
+            "name": "WatchOSThin_24",
+            "type": "font"
+            },
+            { "file": "fonts/WatchOSThin_26.otf",
+            "name": "WatchOSThin_26",
+            "type": "font"
+            },
+            { "file": "fonts/WatchOSThin_15.otf",
+            "name": "WatchOSThin_15",
+            "type": "font"
+            }
+      ]
+    }
+  }
+}
