@@ -12,3 +12,4 @@
 #define  RESOURCE_ID_WatchOSThin_24  3
 #define  RESOURCE_ID_WatchOSThin_26  4
 #define  RESOURCE_ID_WatchOSThin_15  5
+#define  RESOURCE_ID_WatchOSThin_33  6
