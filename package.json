@@ -48,10 +48,18 @@
             "name": "WatchOSThin_26",
             "type": "font"
             },
-            { "file": "fonts/WatchOSThin_15.ttf",
+            { 
+            "characterRegex": "[A-Z]",
+            "file": "fonts/WatchOSThin_15.ttf",
             "name": "WatchOSThin_15",
             "type": "font"
-            }
+            },
+             { 
+             "characterRegex": "[0-9]",
+             "file": "fonts/WatchOSThin_33.ttf",
+            "name": "WatchOSThin_33",
+            "type": "font"
+            },
       ]
     }
   }
