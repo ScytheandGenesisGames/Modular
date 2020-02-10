@@ -60,27 +60,27 @@
             {
                 "type": "font", 
                 "name": "WatchOSThin_30", 
-                "file": "fonts/WatchOSThin_30.otf"
+                "file": "fonts/WatchOSThin_30.ttf"
             }, 
             {
                 "type": "font", 
                 "name": "WatchOSThin_22", 
-                "file": "fonts/WatchOSThin_22.otf"
+                "file": "fonts/WatchOSThin_22.ttf"
             }, 
             {
                 "type": "font", 
                 "name": "WatchOSThin_24", 
-                "file": "fonts/WatchOSThin_24.otf"
+                "file": "fonts/WatchOSThin_24.ttf"
             }, 
             {
                 "type": "font", 
                 "name": "WatchOSThin_26", 
-                "file": "fonts/WatchOSThin_26.otf"
+                "file": "fonts/WatchOSThin_26.ttf"
             }, 
             {
                 "type": "font", 
                 "name": "WatchOSThin_15", 
-                "file": "fonts/WatchOSThin_15.otf"
+                "file": "fonts/WatchOSThin_15.ttf"
             }
         ]
     }, 
