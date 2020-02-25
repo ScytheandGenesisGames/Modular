@@ -1,13 +1,13 @@
-# project  configured on Sun Feb  9 20:48:22 2020 by
+# project  configured on Mon Feb 24 22:12:35 2020 by
 # waf 1.7.11 (abi 98, python 2070fc1 on linux2)
 # using /home/thesillybatdoc/.pebble-sdk/SDKs/current/sdk-core/pebble/waf configure
 #
 ----------------------------------------
 Setting top to
-/home/thesillybatdoc/Pebble-Projects/AppleModular/Modular
+/home/thesillybatdoc/Pebble-Projects/Modular
 ----------------------------------------
 Setting out to
-/home/thesillybatdoc/Pebble-Projects/AppleModular/Modular/build
+/home/thesillybatdoc/Pebble-Projects/Modular/build
 ----------------------------------------
 Checking for program webpack
 /home/thesillybatdoc/.pebble-sdk/SDKs/current/node_modules/.bin/webpack

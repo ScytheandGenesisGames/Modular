@@ -29,7 +29,6 @@
     "resources": {
       "media": [
         {
-            "characterRegex": "[0-9:]",
             "file": "fonts/WatchOSThin_30.ttf",
             "name": "WatchOSThin_30",
             "type": "font"
@@ -43,7 +42,7 @@
             "type": "font"
             },
             { 
-            "characterRegex": "[0-9°]",
+            "characterRegex": "[0-9°A-Za-z]",
             "file": "fonts/WatchOSThin_26.ttf",
             "name": "WatchOSThin_26",
             "type": "font"
@@ -59,6 +58,12 @@
              "file": "fonts/WatchOSThin_33.ttf",
             "name": "WatchOSThin_33",
             "type": "font"
+            },
+             { 
+               "menuIcon": true,
+               "type": "png",
+               "name": "IMAGE_MENU_ICON",
+               "file": "images/Menuicon.png"
             }
       ]
     }

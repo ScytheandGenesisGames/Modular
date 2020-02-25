@@ -13,3 +13,4 @@
 #define  RESOURCE_ID_WatchOSThin_26  4
 #define  RESOURCE_ID_WatchOSThin_15  5
 #define  RESOURCE_ID_WatchOSThin_33  6
+#define  RESOURCE_ID_IMAGE_MENU_ICON  7

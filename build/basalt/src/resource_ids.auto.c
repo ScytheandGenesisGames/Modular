@@ -11,3 +11,4 @@ uint32_t RESOURCE_ID_WatchOSThin_24 = 3;
 uint32_t RESOURCE_ID_WatchOSThin_26 = 4;
 uint32_t RESOURCE_ID_WatchOSThin_15 = 5;
 uint32_t RESOURCE_ID_WatchOSThin_33 = 6;
+uint32_t RESOURCE_ID_IMAGE_MENU_ICON = 7;
